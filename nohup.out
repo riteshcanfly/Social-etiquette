@@ -1,0 +1,71 @@
+[I 12:15:42.053 NotebookApp] JupyterLab extension loaded from /home/rk19abb/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 12:15:42.053 NotebookApp] JupyterLab application directory is /home/rk19abb/anaconda3/share/jupyter/lab
+[I 12:15:42.054 NotebookApp] Serving notebooks from local directory: /home/rk19abb/Documents/Newton/survey_analysis/Social-etiquette
+[I 12:15:42.054 NotebookApp] The Jupyter Notebook is running at:
+[I 12:15:42.054 NotebookApp] http://localhost:8888/?token=56b7c2fb799f2c3cb50f6afbcb3bb8d75bd535fb6ab784d7
+[I 12:15:42.054 NotebookApp]  or http://127.0.0.1:8888/?token=56b7c2fb799f2c3cb50f6afbcb3bb8d75bd535fb6ab784d7
+[I 12:15:42.054 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:15:42.057 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/rk19abb/.local/share/jupyter/runtime/nbserver-16839-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=56b7c2fb799f2c3cb50f6afbcb3bb8d75bd535fb6ab784d7
+     or http://127.0.0.1:8888/?token=56b7c2fb799f2c3cb50f6afbcb3bb8d75bd535fb6ab784d7
+[I 12:16:27.335 NotebookApp] 302 GET /notebooks (127.0.0.1) 2.45ms
+[W 12:16:35.816 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:16:41.848 NotebookApp] Kernel started: 320084f8-2d99-4479-86bc-dfbf188d0437
+[I 12:18:42.880 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:18:42.881 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:22:42.843 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:22:42.844 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:26:43.084 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:26:43.086 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:28:43.415 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:28:43.416 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:30:42.869 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:30:42.871 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:32:42.888 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:32:42.889 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:34:42.831 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:34:42.833 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:36:44.019 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:36:44.021 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:38:43.079 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:38:43.081 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 12:58:43.337 NotebookApp] Saving file at /Analysis.ipynb
+[W 12:58:43.339 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 13:00:42.839 NotebookApp] Saving file at /Analysis.ipynb
+[W 13:00:42.840 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 13:02:43.124 NotebookApp] Saving file at /Analysis.ipynb
+[W 13:02:43.126 NotebookApp] Notebook Analysis.ipynb is not trusted
+[I 13:03:47.677 NotebookApp] Starting buffering for 320084f8-2d99-4479-86bc-dfbf188d0437:a1245613f6334dd88d8a78647d5b2ab2
+[I 13:03:48.731 NotebookApp] Kernel restarted: 320084f8-2d99-4479-86bc-dfbf188d0437
+[I 13:03:49.102 NotebookApp] Restoring connection for 320084f8-2d99-4479-86bc-dfbf188d0437:a1245613f6334dd88d8a78647d5b2ab2
+[I 13:03:49.103 NotebookApp] Replaying 3 buffered messages
+[I 13:04:41.967 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:06:42.212 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:08:42.133 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:10:41.992 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:12:42.036 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:16:42.061 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:20:42.414 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:22:42.037 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:24:41.982 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:26:42.446 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:28:42.476 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:32:42.057 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:34:42.045 NotebookApp] Saving file at /Analysis.ipynb
+[I 13:46:42.107 NotebookApp] Saving file at /Analysis.ipynb
+[I 14:12:42.090 NotebookApp] Saving file at /Analysis.ipynb
+[I 14:32:42.082 NotebookApp] Saving file at /Analysis.ipynb
+[I 14:34:42.037 NotebookApp] Saving file at /Analysis.ipynb
+[I 14:54:42.060 NotebookApp] Saving file at /Analysis.ipynb
+[I 14:58:42.119 NotebookApp] Saving file at /Analysis.ipynb
+[I 15:00:42.598 NotebookApp] Saving file at /Analysis.ipynb
+[I 15:02:42.956 NotebookApp] Saving file at /Analysis.ipynb
+[I 15:56:42.081 NotebookApp] Saving file at /Analysis.ipynb
+[I 16:02:42.157 NotebookApp] Saving file at /Analysis.ipynb
+[I 16:24:42.116 NotebookApp] Saving file at /Analysis.ipynb
+[I 16:44:42.104 NotebookApp] Saving file at /Analysis.ipynb
+[I 17:04:42.135 NotebookApp] Saving file at /Analysis.ipynb
